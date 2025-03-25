@@ -71,11 +71,11 @@ export default function Home() {
                 </div>
               </div>
               <div className="flex items-center justify-center">
-                <div className="relative h-[350px] w-full overflow-hidden rounded-xl bg-muted md:h-[450px]">
+                <div className="relative  w-full overflow-hidden rounded-xl bg-muted ">
                   <Image
-                    src="/placeholder.svg?height=450&width=600"
+                    src="https://neuroncomputers.com/wp-content/uploads/2019/11/bigstock-Automation-Software-Technology-258588526.jpg"
                     width={600}
-                    height={450}
+                    height={50}
                     alt="Dashboard visualization showing the transformation from Figma/Tableau to Power BI"
                     className="object-cover"
                     priority
