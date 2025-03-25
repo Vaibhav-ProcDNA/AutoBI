@@ -1,9 +1,0 @@
-[build]
-  command = "next build"
-  publish = "out"
-
-[[plugins]]
-  package = ""
-
-[build.environment]
-  NETLIFY_NEXT_PLUGIN_SKIP = "true"
